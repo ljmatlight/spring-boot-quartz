@@ -24,8 +24,8 @@ spring:
           enabled: true
           db-type: mysql
           config:
-            delete-allow: false
-            drop-table-allow: false
+            delete-allow: true
+            drop-table-allow: true
 
 server:
   port: 8888
