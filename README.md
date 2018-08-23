@@ -1,2 +1,3 @@
 # spring-boot-quartz
-spring boot quartz 集群模式案例
+
+spring boot quartz 学习案例
